@@ -1,4 +1,4 @@
-package com.freecode.game;
+package com.ninhtth.game;
 
 import android.content.ActivityNotFoundException;
 import android.view.MotionEvent;
